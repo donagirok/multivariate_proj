@@ -1,0 +1,1001 @@
+Transaction_Amount,Transaction_Type,Transaction_Status,Device_Used,Network_Slice_ID,Latency_ms,Slice_Bandwidth_Mbps,Hour,Day,Month,Year,Country,City,Fraud_Flag
+495.9,Deposit,Failed,Desktop,Slice3,10,179,10,Friday,January,2025,South Africa,St Francis Bay,1
+529.62,Withdrawal,Success,Mobile,Slice2,11,89,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+862.47,Withdrawal,Failed,Mobile,Slice1,4,53,10,Friday,January,2025,Somalia,Ceeldheer,0
+1129.88,Transfer,Success,Mobile,Slice3,10,127,10,Friday,January,2025,South Africa,St Francis Bay,1
+933.24,Deposit,Success,Mobile,Slice3,20,191,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+449.56,Withdrawal,Failed,Desktop,Slice1,14,191,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+72.97,Withdrawal,Success,Mobile,Slice2,5,216,10,Friday,January,2025,Seychelles,La Passe,1
+1135.8,Deposit,Failed,Mobile,Slice2,11,69,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1154.59,Withdrawal,Success,Mobile,Slice2,6,151,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+683.48,Transfer,Success,Mobile,Slice1,19,213,10,Friday,January,2025,Uganda,Napak,1
+485.37,Transfer,Failed,Mobile,Slice3,20,173,10,Friday,January,2025,Turkey,Ereğli,1
+1356.77,Deposit,Failed,Desktop,Slice1,18,179,10,Friday,January,2025,Kenya,El Wak,0
+385.43,Deposit,Success,Desktop,Slice3,17,181,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+394.76,Deposit,Failed,Desktop,Slice2,16,146,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+620.34,Deposit,Failed,Desktop,Slice2,7,215,10,Friday,January,2025,Seychelles,La Passe,0
+579.65,Transfer,Failed,Mobile,Slice2,14,246,10,Friday,January,2025,Somalia,Ceeldheer,0
+1171.23,Transfer,Success,Mobile,Slice2,13,88,10,Friday,January,2025,South Africa,St Francis Bay,0
+817.55,Deposit,Failed,Mobile,Slice2,8,82,10,Friday,January,2025,Kenya,El Wak,0
+113.95,Deposit,Success,Mobile,Slice3,18,141,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+906.82,Transfer,Failed,Mobile,Slice2,3,205,10,Friday,January,2025,Uganda,Napak,0
+402.18,Withdrawal,Failed,Mobile,Slice2,18,169,10,Friday,January,2025,Kenya,Eldama Ravine,0
+154.78,Transfer,Success,Mobile,Slice3,7,68,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+762.55,Deposit,Success,Desktop,Slice3,15,207,10,Friday,January,2025,Somalia,Ceeldheer,0
+1196.23,Withdrawal,Failed,Mobile,Slice2,4,72,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1414.14,Transfer,Failed,Mobile,Slice2,4,52,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+276.76,Withdrawal,Failed,Mobile,Slice1,14,101,10,Friday,January,2025,Seychelles,La Passe,1
+1453.39,Withdrawal,Failed,Mobile,Slice2,13,151,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+826.75,Withdrawal,Failed,Desktop,Slice2,15,232,10,Friday,January,2025,Kenya,El Wak,1
+1371.8,Transfer,Failed,Mobile,Slice1,8,61,10,Friday,January,2025,Turkey,Kozan,1
+604.25,Transfer,Failed,Mobile,Slice1,5,129,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+979.89,Withdrawal,Failed,Mobile,Slice2,15,225,10,Friday,January,2025,Kenya,El Wak,0
+129.78,Transfer,Success,Desktop,Slice1,19,106,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+884.55,Transfer,Failed,Mobile,Slice2,14,228,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+250.27,Transfer,Failed,Mobile,Slice1,7,109,10,Friday,January,2025,Turkey,Şenocak,0
+1227.89,Transfer,Success,Desktop,Slice2,7,70,10,Friday,January,2025,Uganda,Napak,0
+743.4,Transfer,Failed,Desktop,Slice3,11,222,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+852.42,Withdrawal,Failed,Mobile,Slice3,5,250,10,Friday,January,2025,Uganda,Napak,0
+92.6,Withdrawal,Success,Desktop,Slice2,7,122,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+499.18,Withdrawal,Success,Mobile,Slice1,19,231,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+910.24,Withdrawal,Success,Mobile,Slice1,15,243,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+992.8,Withdrawal,Failed,Desktop,Slice1,11,139,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+793.95,Deposit,Success,Mobile,Slice1,8,229,10,Friday,January,2025,Somalia,Ceeldheer,0
+1483.75,Transfer,Success,Desktop,Slice1,11,82,10,Friday,January,2025,Seychelles,La Passe,0
+944.51,Withdrawal,Failed,Desktop,Slice3,18,228,10,Friday,January,2025,Kenya,Port Victoria,1
+1093.14,Withdrawal,Failed,Desktop,Slice3,10,224,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+326.66,Withdrawal,Success,Mobile,Slice1,3,161,10,Friday,January,2025,South Africa,St Francis Bay,1
+819.69,Transfer,Failed,Mobile,Slice3,20,135,10,Friday,January,2025,Somalia,Ceeldheer,0
+436.83,Withdrawal,Failed,Mobile,Slice1,7,99,10,Friday,January,2025,Turkey,Kozan,0
+480.29,Withdrawal,Failed,Mobile,Slice2,7,84,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+681.23,Deposit,Success,Desktop,Slice1,14,63,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+434.31,Withdrawal,Failed,Mobile,Slice2,18,67,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+196.41,Deposit,Failed,Desktop,Slice3,12,99,10,Friday,January,2025,South Africa,St Francis Bay,0
+144.1,Transfer,Failed,Desktop,Slice2,15,52,10,Friday,January,2025,South Africa,Port Elizabeth,0
+313.72,Deposit,Failed,Desktop,Slice1,19,55,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+209.97,Withdrawal,Success,Mobile,Slice2,10,94,10,Friday,January,2025,Seychelles,La Passe,0
+879.63,Withdrawal,Success,Desktop,Slice2,17,240,10,Friday,January,2025,Uganda,Napak,1
+906.98,Withdrawal,Failed,Mobile,Slice3,10,102,10,Friday,January,2025,Kenya,Eldama Ravine,1
+1017.3,Deposit,Failed,Mobile,Slice3,11,100,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+972.39,Withdrawal,Success,Desktop,Slice3,17,159,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1436.77,Withdrawal,Failed,Mobile,Slice1,16,192,11,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1094.34,Transfer,Failed,Mobile,Slice1,4,102,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1235.27,Deposit,Success,Mobile,Slice3,9,237,10,Friday,January,2025,Somalia,Ceeldheer,0
+737.12,Deposit,Success,Desktop,Slice3,20,190,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+524.38,Deposit,Success,Mobile,Slice1,18,203,10,Friday,January,2025,South Africa,Port Elizabeth,1
+940.3,Deposit,Success,Mobile,Slice2,6,214,10,Friday,January,2025,Kenya,Lokichar,1
+339.18,Deposit,Failed,Desktop,Slice2,20,123,10,Friday,January,2025,Seychelles,La Passe,0
+713.85,Withdrawal,Success,Desktop,Slice1,12,127,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+1069.09,Withdrawal,Failed,Mobile,Slice2,6,249,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+311.12,Withdrawal,Success,Desktop,Slice3,17,225,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1393.36,Transfer,Success,Desktop,Slice3,8,232,10,Friday,January,2025,Somalia,Cadale,0
+412.43,Transfer,Success,Mobile,Slice1,8,239,10,Friday,January,2025,Seychelles,La Passe,0
+1246.4,Transfer,Success,Desktop,Slice2,9,132,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+713.43,Withdrawal,Failed,Desktop,Slice1,20,243,10,Friday,January,2025,Somalia,Ceeldheer,1
+497.06,Deposit,Failed,Desktop,Slice3,20,113,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+480.26,Deposit,Failed,Mobile,Slice2,16,201,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1446.89,Withdrawal,Failed,Mobile,Slice1,15,83,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+72.36,Withdrawal,Failed,Mobile,Slice2,20,126,10,Friday,January,2025,Seychelles,La Passe,0
+1177.64,Transfer,Success,Desktop,Slice3,14,125,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1495.01,Transfer,Success,Mobile,Slice1,14,203,10,Friday,January,2025,Kenya,Eldama Ravine,1
+235.44,Withdrawal,Failed,Mobile,Slice3,19,216,10,Friday,January,2025,Somalia,Ceeldheer,1
+572.09,Transfer,Failed,Mobile,Slice3,19,233,10,Friday,January,2025,Kenya,Eldama Ravine,0
+513.84,Withdrawal,Success,Mobile,Slice2,20,62,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+899.08,Deposit,Failed,Desktop,Slice1,10,162,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+765.31,Deposit,Success,Desktop,Slice3,7,184,10,Friday,January,2025,Kenya,Port Victoria,1
+677.07,Transfer,Failed,Desktop,Slice3,20,87,10,Friday,January,2025,Somalia,Ceeldheer,0
+1468.89,Transfer,Success,Mobile,Slice1,16,238,10,Friday,January,2025,Kenya,Dadaab,0
+1344.01,Withdrawal,Failed,Mobile,Slice3,10,63,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+571.22,Transfer,Success,Desktop,Slice2,15,185,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1480.16,Deposit,Success,Mobile,Slice2,10,111,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+980.64,Deposit,Failed,Desktop,Slice1,20,237,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+989.51,Withdrawal,Success,Mobile,Slice2,15,66,10,Friday,January,2025,Somalia,Ceeldheer,1
+724.95,Withdrawal,Success,Mobile,Slice3,11,219,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+437.44,Transfer,Failed,Mobile,Slice2,9,94,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1149.48,Transfer,Success,Mobile,Slice3,20,74,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1279.44,Transfer,Success,Mobile,Slice1,20,157,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1240.14,Withdrawal,Failed,Mobile,Slice1,5,223,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1303.52,Withdrawal,Failed,Mobile,Slice3,18,173,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+526.37,Withdrawal,Failed,Mobile,Slice1,19,78,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1269.91,Withdrawal,Failed,Desktop,Slice3,13,116,10,Friday,January,2025,Turkey,Ereğli,0
+616.37,Transfer,Failed,Desktop,Slice1,3,79,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+196.79,Transfer,Success,Mobile,Slice2,5,59,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+252.77,Withdrawal,Failed,Desktop,Slice3,15,67,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+762.47,Withdrawal,Failed,Mobile,Slice3,13,183,10,Friday,January,2025,Kenya,Lokichar,0
+1349.84,Withdrawal,Success,Mobile,Slice1,18,110,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+140.0,Transfer,Failed,Desktop,Slice2,7,158,10,Friday,January,2025,Turkey,Kozan,1
+1406.15,Transfer,Failed,Desktop,Slice3,13,235,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+929.9,Transfer,Success,Mobile,Slice1,16,134,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+315.13,Withdrawal,Failed,Mobile,Slice2,13,61,10,Friday,January,2025,Kenya,Eldama Ravine,0
+275.22,Deposit,Success,Mobile,Slice1,6,94,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1054.67,Transfer,Success,Desktop,Slice1,12,118,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1258.41,Transfer,Success,Mobile,Slice2,5,188,10,Friday,January,2025,Kenya,Dadaab,0
+217.56,Transfer,Success,Mobile,Slice1,13,170,10,Friday,January,2025,Somalia,Cadale,1
+1174.55,Transfer,Failed,Mobile,Slice2,17,84,10,Friday,January,2025,Kenya,El Wak,0
+1042.62,Transfer,Failed,Desktop,Slice3,20,184,10,Friday,January,2025,Kenya,El Wak,1
+51.89,Deposit,Failed,Mobile,Slice3,17,148,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+757.11,Withdrawal,Failed,Desktop,Slice1,9,205,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+802.33,Transfer,Success,Desktop,Slice1,16,134,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+556.32,Transfer,Failed,Mobile,Slice3,3,144,11,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+256.48,Withdrawal,Failed,Desktop,Slice3,4,195,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+538.85,Deposit,Success,Desktop,Slice3,3,100,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+703.98,Withdrawal,Success,Desktop,Slice2,6,125,10,Friday,January,2025,South Africa,St Francis Bay,1
+573.31,Deposit,Success,Desktop,Slice1,14,86,11,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1317.9,Deposit,Failed,Mobile,Slice1,11,77,10,Friday,January,2025,Somalia,Cadale,0
+717.18,Deposit,Success,Mobile,Slice1,19,191,10,Friday,January,2025,Seychelles,La Passe,0
+585.21,Withdrawal,Success,Mobile,Slice3,20,190,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+370.03,Withdrawal,Success,Desktop,Slice1,9,196,10,Friday,January,2025,South Africa,Port Elizabeth,0
+1091.12,Deposit,Success,Mobile,Slice2,16,92,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+1181.48,Transfer,Failed,Mobile,Slice2,17,164,10,Friday,January,2025,Turkey,Ereğli,1
+614.35,Deposit,Failed,Mobile,Slice3,13,73,10,Friday,January,2025,Uganda,Napak,0
+459.03,Deposit,Success,Mobile,Slice1,6,99,10,Friday,January,2025,Somalia,Ceeldheer,1
+570.25,Withdrawal,Failed,Mobile,Slice2,7,190,10,Friday,January,2025,Turkey,Ereğli,0
+1080.96,Withdrawal,Success,Desktop,Slice1,19,141,10,Friday,January,2025,Seychelles,La Passe,1
+206.11,Withdrawal,Success,Desktop,Slice2,10,241,10,Friday,January,2025,Turkey,Ereğli,0
+906.4,Transfer,Failed,Desktop,Slice2,15,87,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1234.97,Deposit,Success,Desktop,Slice3,11,107,10,Friday,January,2025,South Africa,Port Elizabeth,0
+864.07,Transfer,Success,Desktop,Slice1,8,199,10,Friday,January,2025,Kenya,Port Victoria,0
+1168.41,Withdrawal,Failed,Mobile,Slice3,15,117,11,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1063.01,Transfer,Success,Mobile,Slice2,3,143,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+578.36,Withdrawal,Failed,Mobile,Slice1,11,200,10,Friday,January,2025,Kenya,Port Victoria,1
+389.42,Withdrawal,Failed,Mobile,Slice1,13,81,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+559.62,Deposit,Failed,Mobile,Slice1,11,201,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+176.97,Deposit,Success,Mobile,Slice3,7,226,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+537.6,Transfer,Success,Mobile,Slice1,17,83,10,Friday,January,2025,Uganda,Napak,1
+561.3,Withdrawal,Failed,Desktop,Slice3,18,237,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1135.83,Transfer,Failed,Mobile,Slice2,19,150,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+499.93,Transfer,Success,Desktop,Slice3,18,147,10,Friday,January,2025,Seychelles,La Passe,1
+889.23,Withdrawal,Success,Desktop,Slice2,6,216,10,Friday,January,2025,Kenya,Port Victoria,1
+638.84,Withdrawal,Success,Desktop,Slice3,10,105,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1456.87,Deposit,Failed,Mobile,Slice3,8,117,10,Friday,January,2025,Somalia,Ceeldheer,1
+561.06,Deposit,Failed,Desktop,Slice3,6,79,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1465.1,Transfer,Failed,Desktop,Slice2,7,200,10,Friday,January,2025,Somalia,Ceeldheer,0
+753.03,Transfer,Success,Mobile,Slice1,18,89,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1421.77,Deposit,Failed,Mobile,Slice2,12,181,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1293.2,Transfer,Failed,Desktop,Slice2,12,218,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1080.33,Transfer,Success,Desktop,Slice1,8,182,10,Friday,January,2025,Somalia,Ceeldheer,0
+976.88,Withdrawal,Success,Desktop,Slice2,14,150,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1250.33,Deposit,Success,Mobile,Slice1,12,247,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+560.21,Deposit,Failed,Mobile,Slice3,12,113,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+604.58,Withdrawal,Failed,Mobile,Slice2,9,231,10,Friday,January,2025,Kenya,Eldama Ravine,0
+724.63,Deposit,Success,Desktop,Slice2,17,188,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+486.01,Transfer,Success,Mobile,Slice3,15,104,10,Friday,January,2025,Kenya,Port Victoria,1
+883.68,Transfer,Failed,Mobile,Slice3,14,90,10,Friday,January,2025,Kenya,Lokichar,1
+750.92,Transfer,Success,Desktop,Slice2,6,235,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+1065.66,Deposit,Success,Desktop,Slice2,6,190,10,Friday,January,2025,Kenya,El Wak,1
+475.88,Withdrawal,Failed,Desktop,Slice2,9,159,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1121.31,Transfer,Failed,Mobile,Slice1,20,95,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+308.66,Withdrawal,Success,Desktop,Slice1,6,123,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+841.79,Withdrawal,Success,Mobile,Slice3,7,76,10,Friday,January,2025,South Africa,Port Elizabeth,1
+189.14,Transfer,Failed,Desktop,Slice2,8,69,10,Friday,January,2025,Kenya,El Wak,1
+1054.35,Deposit,Success,Desktop,Slice1,11,120,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1483.09,Transfer,Failed,Desktop,Slice3,9,209,10,Friday,January,2025,Somalia,Cadale,0
+645.4,Withdrawal,Failed,Desktop,Slice3,12,99,10,Friday,January,2025,Uganda,Napak,0
+536.4,Transfer,Success,Mobile,Slice1,16,84,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1098.59,Transfer,Failed,Desktop,Slice2,18,240,10,Friday,January,2025,Somalia,Ceeldheer,1
+1096.78,Transfer,Success,Desktop,Slice1,6,220,10,Friday,January,2025,Kenya,Lokichar,1
+258.8,Deposit,Failed,Desktop,Slice1,12,74,10,Friday,January,2025,South Africa,Port Elizabeth,1
+1372.5,Transfer,Failed,Desktop,Slice3,12,185,10,Friday,January,2025,Kenya,Lokichar,1
+549.88,Deposit,Success,Desktop,Slice2,11,98,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+472.7,Transfer,Failed,Desktop,Slice2,6,250,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+296.54,Transfer,Failed,Mobile,Slice1,20,229,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+435.39,Transfer,Failed,Desktop,Slice3,10,90,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+1445.47,Deposit,Failed,Desktop,Slice1,12,139,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+334.45,Transfer,Failed,Desktop,Slice3,9,211,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+457.97,Transfer,Success,Desktop,Slice3,7,80,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1304.37,Transfer,Failed,Desktop,Slice3,4,192,10,Friday,January,2025,Uganda,Napak,1
+936.43,Transfer,Success,Mobile,Slice1,20,150,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1228.0,Withdrawal,Failed,Mobile,Slice1,19,177,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+615.2,Deposit,Success,Desktop,Slice2,13,244,10,Friday,January,2025,South Africa,St Francis Bay,0
+1231.61,Deposit,Success,Desktop,Slice3,11,188,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+349.49,Withdrawal,Failed,Desktop,Slice2,7,115,10,Friday,January,2025,Turkey,Ereğli,0
+454.59,Deposit,Success,Desktop,Slice2,20,130,10,Friday,January,2025,South Africa,St Francis Bay,1
+657.19,Deposit,Failed,Desktop,Slice3,6,168,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1149.81,Deposit,Success,Mobile,Slice3,3,138,10,Friday,January,2025,Turkey,Kozan,1
+298.71,Withdrawal,Failed,Desktop,Slice3,6,70,10,Friday,January,2025,Kenya,El Wak,0
+1060.59,Withdrawal,Success,Desktop,Slice1,14,135,10,Friday,January,2025,Uganda,Napak,0
+988.73,Withdrawal,Success,Desktop,Slice1,14,94,10,Friday,January,2025,Somalia,Cadale,1
+1026.97,Transfer,Success,Mobile,Slice1,5,129,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+69.81,Withdrawal,Failed,Desktop,Slice2,11,84,10,Friday,January,2025,Kenya,Lokichar,0
+716.02,Withdrawal,Failed,Desktop,Slice1,13,108,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+865.15,Deposit,Success,Desktop,Slice2,12,72,10,Friday,January,2025,Seychelles,La Passe,1
+1226.35,Transfer,Success,Mobile,Slice2,13,67,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+99.03,Transfer,Failed,Desktop,Slice1,16,220,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+58.13,Withdrawal,Success,Desktop,Slice1,17,207,10,Friday,January,2025,Uganda,Napak,0
+103.8,Withdrawal,Failed,Mobile,Slice2,12,233,10,Friday,January,2025,Somalia,Ceeldheer,0
+729.84,Deposit,Failed,Desktop,Slice2,5,57,10,Friday,January,2025,Turkey,Kozan,1
+755.82,Deposit,Failed,Desktop,Slice3,20,203,10,Friday,January,2025,Uganda,Napak,0
+406.25,Deposit,Success,Mobile,Slice1,7,226,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+531.26,Transfer,Failed,Mobile,Slice1,17,140,10,Friday,January,2025,Kenya,Eldama Ravine,0
+280.31,Transfer,Failed,Desktop,Slice1,14,220,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1365.35,Transfer,Success,Desktop,Slice3,11,247,10,Friday,January,2025,South Africa,St Francis Bay,0
+914.96,Deposit,Success,Mobile,Slice2,7,117,10,Friday,January,2025,Somalia,Ceeldheer,0
+1081.34,Deposit,Failed,Mobile,Slice2,7,106,10,Friday,January,2025,Kenya,Eldama Ravine,1
+993.15,Deposit,Failed,Desktop,Slice1,9,150,10,Friday,January,2025,Kenya,Lokichar,1
+286.5,Transfer,Failed,Mobile,Slice2,8,66,11,Friday,January,2025,South Africa,St Francis Bay,0
+229.22,Deposit,Failed,Desktop,Slice2,6,143,10,Friday,January,2025,Somalia,Ceeldheer,0
+594.59,Transfer,Success,Mobile,Slice3,19,182,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1090.28,Transfer,Success,Desktop,Slice2,8,191,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1229.47,Withdrawal,Success,Desktop,Slice1,7,223,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+827.28,Transfer,Failed,Mobile,Slice3,17,91,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+985.95,Withdrawal,Failed,Desktop,Slice3,10,196,10,Friday,January,2025,Somalia,Ceeldheer,1
+854.53,Withdrawal,Success,Mobile,Slice1,8,204,10,Friday,January,2025,Somalia,Hobyo,1
+1170.07,Withdrawal,Failed,Mobile,Slice3,9,230,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1196.04,Deposit,Success,Mobile,Slice1,9,102,10,Friday,January,2025,Turkey,Ereğli,1
+99.09,Deposit,Success,Desktop,Slice2,19,220,10,Friday,January,2025,Kenya,Dadaab,0
+420.86,Deposit,Success,Mobile,Slice3,6,68,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+292.99,Withdrawal,Success,Desktop,Slice2,10,93,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+996.89,Withdrawal,Success,Desktop,Slice3,9,143,10,Friday,January,2025,Seychelles,La Passe,1
+1040.45,Transfer,Failed,Desktop,Slice1,13,223,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+476.97,Transfer,Success,Mobile,Slice2,6,112,10,Friday,January,2025,Somalia,Cadale,0
+241.5,Deposit,Success,Mobile,Slice2,18,64,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+463.4,Deposit,Success,Mobile,Slice1,10,95,10,Friday,January,2025,South Africa,Port Elizabeth,0
+950.03,Deposit,Failed,Mobile,Slice2,11,104,10,Friday,January,2025,Kenya,Port Victoria,1
+499.71,Transfer,Failed,Mobile,Slice1,3,127,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+978.12,Deposit,Failed,Mobile,Slice3,16,178,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+692.55,Deposit,Failed,Desktop,Slice2,20,115,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+569.57,Deposit,Success,Desktop,Slice1,8,104,10,Friday,January,2025,Seychelles,La Passe,0
+766.78,Transfer,Failed,Desktop,Slice3,19,241,10,Friday,January,2025,Seychelles,La Passe,0
+1364.8,Withdrawal,Failed,Desktop,Slice3,7,243,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+287.89,Deposit,Failed,Mobile,Slice2,7,250,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1012.1,Transfer,Failed,Desktop,Slice2,20,91,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1497.76,Transfer,Success,Desktop,Slice2,10,113,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+477.66,Transfer,Failed,Desktop,Slice1,9,55,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+895.62,Transfer,Failed,Desktop,Slice2,4,219,10,Friday,January,2025,Somalia,Cadale,0
+176.46,Transfer,Success,Mobile,Slice3,15,132,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+53.53,Deposit,Failed,Mobile,Slice2,16,132,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+233.95,Deposit,Failed,Desktop,Slice1,13,178,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+1058.41,Transfer,Success,Desktop,Slice1,8,119,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+599.56,Deposit,Failed,Desktop,Slice3,9,109,10,Friday,January,2025,Turkey,Kozan,1
+429.38,Transfer,Failed,Desktop,Slice1,14,230,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1434.83,Withdrawal,Success,Mobile,Slice3,20,220,10,Friday,January,2025,Somalia,Ceeldheer,0
+892.35,Transfer,Success,Desktop,Slice2,15,63,10,Friday,January,2025,South Africa,Port Elizabeth,1
+1009.5,Withdrawal,Success,Mobile,Slice2,3,153,10,Friday,January,2025,Somalia,Cadale,1
+407.18,Deposit,Success,Desktop,Slice3,8,143,10,Friday,January,2025,South Africa,St Francis Bay,0
+530.77,Transfer,Failed,Mobile,Slice1,5,162,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+548.93,Transfer,Failed,Mobile,Slice2,11,88,10,Friday,January,2025,Uganda,Napak,1
+934.63,Deposit,Failed,Mobile,Slice1,9,139,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+985.07,Transfer,Failed,Desktop,Slice3,15,132,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+1157.76,Withdrawal,Failed,Mobile,Slice1,6,69,10,Friday,January,2025,Kenya,Lokichar,1
+256.07,Withdrawal,Failed,Mobile,Slice1,15,92,10,Friday,January,2025,Somalia,Ceeldheer,0
+1222.13,Withdrawal,Success,Desktop,Slice3,11,100,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+97.22,Withdrawal,Failed,Mobile,Slice2,11,242,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+474.4,Transfer,Failed,Desktop,Slice1,3,89,10,Friday,January,2025,Somalia,Cadale,0
+63.23,Transfer,Success,Mobile,Slice3,18,224,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1464.96,Deposit,Success,Mobile,Slice1,4,216,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+806.29,Deposit,Failed,Desktop,Slice2,4,100,10,Friday,January,2025,Kenya,Eldama Ravine,1
+1181.75,Deposit,Failed,Desktop,Slice3,15,237,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+201.5,Transfer,Failed,Mobile,Slice1,17,126,10,Friday,January,2025,Seychelles,La Passe,0
+128.78,Transfer,Success,Desktop,Slice3,9,183,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+439.79,Withdrawal,Success,Desktop,Slice3,6,74,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1011.54,Deposit,Success,Desktop,Slice1,19,108,10,Friday,January,2025,South Africa,St Francis Bay,1
+483.75,Deposit,Success,Mobile,Slice3,11,91,10,Friday,January,2025,Turkey,Kozan,1
+678.01,Transfer,Failed,Mobile,Slice2,16,234,10,Friday,January,2025,Somalia,Hobyo,0
+597.43,Transfer,Failed,Desktop,Slice2,10,87,10,Friday,January,2025,Seychelles,La Passe,0
+1172.11,Withdrawal,Success,Mobile,Slice3,12,240,10,Friday,January,2025,Somalia,Cadale,1
+919.33,Transfer,Failed,Mobile,Slice1,12,112,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1331.78,Transfer,Success,Mobile,Slice1,9,247,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1304.24,Deposit,Failed,Mobile,Slice1,17,99,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+229.96,Transfer,Success,Desktop,Slice3,6,215,10,Friday,January,2025,South Africa,St Francis Bay,0
+951.98,Transfer,Failed,Mobile,Slice2,7,79,10,Friday,January,2025,Somalia,Ceeldheer,0
+822.01,Deposit,Success,Desktop,Slice2,14,225,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+160.0,Transfer,Success,Desktop,Slice1,4,249,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+832.4,Transfer,Failed,Mobile,Slice3,17,50,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1076.04,Withdrawal,Failed,Desktop,Slice2,13,68,10,Friday,January,2025,Seychelles,La Passe,0
+654.74,Transfer,Success,Mobile,Slice2,5,117,10,Friday,January,2025,Kenya,Dadaab,1
+280.59,Deposit,Success,Desktop,Slice2,13,94,10,Friday,January,2025,Somalia,Hobyo,0
+1390.33,Withdrawal,Success,Desktop,Slice1,20,106,10,Friday,January,2025,Somalia,Ceeldheer,1
+417.93,Withdrawal,Success,Mobile,Slice1,11,54,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1249.53,Deposit,Failed,Mobile,Slice1,11,181,10,Friday,January,2025,Somalia,Ceeldheer,0
+1304.23,Transfer,Success,Desktop,Slice3,19,210,10,Friday,January,2025,Kenya,Lokichar,0
+775.27,Transfer,Success,Mobile,Slice1,15,55,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+407.35,Withdrawal,Failed,Desktop,Slice3,8,61,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+662.75,Withdrawal,Success,Desktop,Slice3,20,137,10,Friday,January,2025,Somalia,Ceeldheer,0
+269.99,Withdrawal,Success,Mobile,Slice3,18,111,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+1393.08,Withdrawal,Success,Desktop,Slice1,4,73,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+380.22,Deposit,Success,Mobile,Slice1,6,141,10,Friday,January,2025,Uganda,Napak,1
+117.67,Withdrawal,Failed,Desktop,Slice3,17,167,10,Friday,January,2025,Kenya,Lokichar,0
+693.77,Deposit,Success,Desktop,Slice2,7,248,10,Friday,January,2025,Somalia,Ceeldheer,1
+91.57,Deposit,Success,Mobile,Slice3,17,210,10,Friday,January,2025,Somalia,Ceeldheer,0
+1453.16,Transfer,Success,Desktop,Slice3,15,221,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+798.88,Transfer,Success,Mobile,Slice1,20,105,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+94.08,Withdrawal,Failed,Desktop,Slice3,17,134,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+129.36,Withdrawal,Failed,Mobile,Slice1,18,167,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+320.15,Deposit,Success,Mobile,Slice1,14,90,10,Friday,January,2025,Kenya,Dadaab,0
+628.16,Deposit,Failed,Mobile,Slice2,6,62,10,Friday,January,2025,Kenya,Dadaab,0
+312.62,Withdrawal,Success,Desktop,Slice3,17,135,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+594.88,Transfer,Success,Mobile,Slice2,13,71,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1107.97,Transfer,Success,Desktop,Slice3,4,247,10,Friday,January,2025,Seychelles,La Passe,1
+466.07,Transfer,Failed,Desktop,Slice2,15,239,10,Friday,January,2025,Kenya,Lokichar,0
+485.51,Deposit,Success,Mobile,Slice3,15,120,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1290.77,Transfer,Success,Mobile,Slice2,20,168,10,Friday,January,2025,Turkey,Ereğli,0
+391.02,Transfer,Success,Mobile,Slice2,9,192,10,Friday,January,2025,Kenya,Port Victoria,1
+1297.35,Transfer,Failed,Desktop,Slice1,6,89,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+134.07,Withdrawal,Failed,Mobile,Slice2,8,243,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+420.97,Deposit,Success,Desktop,Slice1,15,153,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+224.14,Transfer,Success,Mobile,Slice1,18,213,10,Friday,January,2025,Kenya,Dadaab,0
+1043.24,Transfer,Success,Mobile,Slice1,19,248,10,Friday,January,2025,Kenya,Dadaab,1
+555.97,Transfer,Success,Mobile,Slice1,4,214,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+319.68,Deposit,Failed,Mobile,Slice3,7,166,10,Friday,January,2025,Seychelles,La Passe,1
+978.39,Deposit,Success,Desktop,Slice3,7,210,10,Friday,January,2025,Somalia,Hobyo,0
+894.94,Transfer,Success,Desktop,Slice2,10,177,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1272.62,Withdrawal,Failed,Desktop,Slice2,14,110,10,Friday,January,2025,Somalia,Hobyo,1
+260.21,Withdrawal,Success,Desktop,Slice2,18,227,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+349.61,Transfer,Failed,Mobile,Slice1,19,176,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+259.0,Withdrawal,Success,Desktop,Slice2,11,174,10,Friday,January,2025,Somalia,Cadale,0
+102.81,Transfer,Success,Mobile,Slice1,5,91,10,Friday,January,2025,Somalia,Hobyo,0
+396.54,Withdrawal,Success,Mobile,Slice1,12,77,10,Friday,January,2025,Somalia,Ceeldheer,0
+794.73,Deposit,Success,Mobile,Slice2,8,221,10,Friday,January,2025,Somalia,Ceeldheer,1
+1404.91,Withdrawal,Failed,Desktop,Slice1,7,221,10,Friday,January,2025,Seychelles,La Passe,0
+88.64,Withdrawal,Failed,Mobile,Slice3,19,127,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+890.83,Withdrawal,Failed,Desktop,Slice3,3,117,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1360.18,Withdrawal,Failed,Desktop,Slice3,13,57,10,Friday,January,2025,Seychelles,La Passe,1
+1181.01,Transfer,Success,Mobile,Slice1,18,123,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+766.93,Withdrawal,Failed,Mobile,Slice1,5,158,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+350.01,Withdrawal,Failed,Mobile,Slice3,7,166,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+116.93,Withdrawal,Success,Mobile,Slice3,13,52,10,Friday,January,2025,Kenya,Dadaab,1
+1460.24,Transfer,Failed,Mobile,Slice1,20,98,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1205.92,Withdrawal,Failed,Mobile,Slice2,7,126,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+263.79,Transfer,Failed,Desktop,Slice2,14,194,10,Friday,January,2025,Somalia,Ceeldheer,1
+597.89,Withdrawal,Failed,Mobile,Slice1,17,147,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+275.18,Transfer,Success,Desktop,Slice2,14,232,10,Friday,January,2025,Somalia,Ceeldheer,1
+337.39,Deposit,Failed,Mobile,Slice1,10,169,10,Friday,January,2025,Kenya,El Wak,0
+152.01,Withdrawal,Failed,Desktop,Slice1,12,204,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+523.92,Transfer,Failed,Mobile,Slice1,15,66,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1010.44,Withdrawal,Success,Mobile,Slice2,10,120,10,Friday,January,2025,Kenya,Eldama Ravine,1
+1319.31,Transfer,Failed,Mobile,Slice2,12,92,10,Friday,January,2025,Seychelles,La Passe,1
+1015.37,Transfer,Success,Mobile,Slice2,17,197,10,Friday,January,2025,Kenya,Lokichar,1
+159.86,Deposit,Success,Desktop,Slice2,6,207,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+977.23,Deposit,Success,Mobile,Slice1,3,166,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+113.55,Withdrawal,Failed,Mobile,Slice2,4,217,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1122.6,Withdrawal,Success,Desktop,Slice3,12,231,10,Friday,January,2025,Somalia,Ceeldheer,0
+1245.9,Deposit,Failed,Desktop,Slice3,15,87,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1091.63,Withdrawal,Failed,Mobile,Slice1,14,86,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+420.94,Withdrawal,Success,Desktop,Slice1,19,169,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+268.65,Transfer,Success,Desktop,Slice2,5,152,10,Friday,January,2025,Turkey,Kozan,1
+897.39,Deposit,Failed,Mobile,Slice3,9,208,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1478.53,Transfer,Failed,Mobile,Slice2,4,63,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1000.94,Deposit,Failed,Mobile,Slice1,11,112,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+543.02,Deposit,Failed,Desktop,Slice3,19,207,10,Friday,January,2025,Kenya,Eldama Ravine,0
+615.92,Deposit,Success,Desktop,Slice3,6,138,10,Friday,January,2025,Kenya,Dadaab,1
+783.76,Withdrawal,Failed,Desktop,Slice2,19,95,10,Friday,January,2025,Kenya,Dadaab,1
+1085.26,Deposit,Failed,Mobile,Slice2,18,200,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+69.26,Withdrawal,Failed,Mobile,Slice1,9,89,10,Friday,January,2025,Seychelles,La Passe,0
+649.53,Transfer,Failed,Mobile,Slice3,10,132,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+893.51,Deposit,Failed,Desktop,Slice3,19,205,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+978.2,Deposit,Failed,Desktop,Slice3,11,91,10,Friday,January,2025,Somalia,Ceeldheer,1
+1324.85,Withdrawal,Success,Mobile,Slice2,9,72,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+121.48,Transfer,Success,Desktop,Slice2,9,173,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+614.72,Withdrawal,Success,Desktop,Slice2,19,247,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+807.82,Deposit,Success,Desktop,Slice1,11,76,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1454.09,Deposit,Failed,Desktop,Slice1,11,187,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1263.45,Deposit,Success,Desktop,Slice2,19,188,10,Friday,January,2025,Somalia,Hobyo,0
+567.4,Deposit,Success,Desktop,Slice3,19,128,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+892.61,Deposit,Success,Mobile,Slice3,14,101,10,Friday,January,2025,Seychelles,La Passe,0
+633.35,Deposit,Failed,Desktop,Slice1,18,126,11,Friday,January,2025,Kenya,Dadaab,0
+746.64,Deposit,Success,Mobile,Slice1,7,187,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+528.35,Withdrawal,Success,Desktop,Slice3,16,174,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+624.86,Withdrawal,Failed,Mobile,Slice1,17,214,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+1346.57,Withdrawal,Failed,Desktop,Slice2,19,53,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+535.09,Deposit,Failed,Mobile,Slice2,19,191,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+668.52,Deposit,Failed,Mobile,Slice1,15,151,10,Friday,January,2025,Seychelles,La Passe,0
+487.74,Transfer,Success,Mobile,Slice3,6,204,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+215.42,Deposit,Success,Desktop,Slice2,14,172,10,Friday,January,2025,Kenya,El Wak,0
+786.57,Transfer,Success,Mobile,Slice1,9,82,10,Friday,January,2025,Somalia,Hobyo,1
+1263.21,Withdrawal,Failed,Desktop,Slice3,15,209,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+396.08,Transfer,Failed,Mobile,Slice2,11,153,10,Friday,January,2025,Kenya,Port Victoria,1
+714.58,Transfer,Success,Mobile,Slice2,4,112,10,Friday,January,2025,Kenya,Eldama Ravine,0
+643.4,Transfer,Success,Desktop,Slice2,3,98,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1333.87,Withdrawal,Success,Mobile,Slice3,16,150,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1292.55,Transfer,Failed,Desktop,Slice1,13,94,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+1209.22,Deposit,Success,Desktop,Slice3,4,215,10,Friday,January,2025,Kenya,Eldama Ravine,1
+971.32,Withdrawal,Success,Desktop,Slice1,4,105,10,Friday,January,2025,Kenya,El Wak,0
+155.79,Deposit,Failed,Mobile,Slice2,11,192,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+337.59,Transfer,Success,Mobile,Slice2,19,124,10,Friday,January,2025,Somalia,Hobyo,0
+540.97,Transfer,Failed,Desktop,Slice2,10,218,10,Friday,January,2025,Seychelles,La Passe,1
+511.0,Withdrawal,Failed,Mobile,Slice3,17,248,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1211.34,Withdrawal,Failed,Mobile,Slice2,7,250,10,Friday,January,2025,South Africa,Port Elizabeth,1
+1468.59,Transfer,Failed,Mobile,Slice2,11,109,10,Friday,January,2025,Turkey,Ereğli,1
+364.2,Withdrawal,Success,Mobile,Slice3,12,169,10,Friday,January,2025,Kenya,Lokichar,0
+1357.71,Deposit,Failed,Mobile,Slice1,15,135,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+364.83,Deposit,Failed,Mobile,Slice2,18,130,10,Friday,January,2025,Uganda,Napak,1
+236.8,Transfer,Success,Desktop,Slice1,14,81,10,Friday,January,2025,Turkey,Kozan,0
+937.09,Deposit,Success,Desktop,Slice3,18,248,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1220.92,Transfer,Success,Mobile,Slice3,19,127,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1314.12,Deposit,Success,Mobile,Slice1,5,244,10,Friday,January,2025,Somalia,Cadale,0
+892.08,Withdrawal,Success,Desktop,Slice2,5,181,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+737.44,Withdrawal,Success,Mobile,Slice2,7,171,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+498.23,Deposit,Failed,Desktop,Slice3,14,175,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+395.37,Transfer,Success,Desktop,Slice2,13,245,10,Friday,January,2025,Somalia,Cadale,0
+160.93,Transfer,Failed,Mobile,Slice1,10,108,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1356.11,Transfer,Failed,Desktop,Slice3,6,56,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1130.72,Deposit,Failed,Desktop,Slice3,11,54,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+645.72,Deposit,Success,Desktop,Slice2,15,175,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1189.27,Deposit,Success,Desktop,Slice2,6,60,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+914.39,Transfer,Failed,Mobile,Slice3,7,229,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+171.75,Deposit,Failed,Mobile,Slice3,20,221,10,Friday,January,2025,Seychelles,La Passe,0
+1331.35,Withdrawal,Failed,Desktop,Slice3,14,134,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+1145.85,Withdrawal,Success,Desktop,Slice3,10,184,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+948.68,Withdrawal,Failed,Desktop,Slice1,17,97,10,Friday,January,2025,Turkey,Şenocak,1
+1292.74,Transfer,Failed,Desktop,Slice2,4,181,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1246.19,Deposit,Failed,Desktop,Slice2,7,212,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+861.73,Withdrawal,Success,Desktop,Slice2,8,99,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1188.37,Deposit,Success,Mobile,Slice2,6,179,10,Friday,January,2025,Kenya,Eldama Ravine,1
+478.3,Withdrawal,Failed,Mobile,Slice1,8,99,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1493.27,Withdrawal,Success,Desktop,Slice3,10,116,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1483.4,Withdrawal,Failed,Mobile,Slice2,10,138,10,Friday,January,2025,Uganda,Napak,0
+1447.48,Deposit,Failed,Mobile,Slice1,6,118,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+741.61,Transfer,Success,Mobile,Slice3,12,58,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+922.96,Withdrawal,Failed,Desktop,Slice2,5,212,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+672.07,Transfer,Failed,Desktop,Slice2,4,74,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1190.81,Transfer,Success,Mobile,Slice3,3,107,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+890.4,Withdrawal,Success,Desktop,Slice2,19,143,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+953.94,Withdrawal,Failed,Mobile,Slice1,3,145,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1113.31,Transfer,Failed,Desktop,Slice2,3,223,10,Friday,January,2025,Turkey,Kozan,0
+608.07,Transfer,Success,Desktop,Slice3,13,223,10,Friday,January,2025,Kenya,Eldama Ravine,0
+1186.59,Withdrawal,Failed,Mobile,Slice1,14,96,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+256.17,Transfer,Failed,Desktop,Slice3,13,148,11,Friday,January,2025,Seychelles,La Passe,0
+459.19,Transfer,Failed,Desktop,Slice2,17,62,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+82.26,Transfer,Success,Desktop,Slice1,10,127,10,Friday,January,2025,Somalia,Ceeldheer,0
+741.53,Transfer,Success,Mobile,Slice1,17,160,10,Friday,January,2025,Uganda,Napak,0
+447.12,Withdrawal,Success,Desktop,Slice3,15,237,10,Friday,January,2025,Kenya,El Wak,1
+140.89,Withdrawal,Failed,Mobile,Slice3,9,122,10,Friday,January,2025,Turkey,Şenocak,0
+273.81,Withdrawal,Success,Mobile,Slice1,16,79,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1449.24,Deposit,Success,Mobile,Slice1,20,109,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1191.44,Withdrawal,Failed,Mobile,Slice2,19,149,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+523.24,Withdrawal,Failed,Mobile,Slice1,15,135,10,Friday,January,2025,Somalia,Ceeldheer,1
+142.3,Deposit,Success,Mobile,Slice1,3,75,10,Friday,January,2025,Somalia,Ceeldheer,1
+1224.01,Deposit,Success,Desktop,Slice2,16,55,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1310.0,Deposit,Failed,Desktop,Slice2,8,109,10,Friday,January,2025,Seychelles,La Passe,1
+95.1,Withdrawal,Failed,Mobile,Slice3,15,189,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+561.12,Withdrawal,Failed,Desktop,Slice2,6,163,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+712.91,Deposit,Failed,Mobile,Slice2,7,214,10,Friday,January,2025,Seychelles,La Passe,1
+659.93,Transfer,Success,Desktop,Slice3,15,240,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+411.08,Transfer,Success,Desktop,Slice3,4,150,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+131.53,Transfer,Failed,Desktop,Slice3,14,82,10,Friday,January,2025,Uganda,Napak,0
+1122.89,Transfer,Success,Mobile,Slice2,7,190,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+218.74,Withdrawal,Failed,Mobile,Slice1,19,172,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1080.59,Deposit,Success,Desktop,Slice3,5,99,10,Friday,January,2025,Kenya,El Wak,0
+1284.02,Deposit,Failed,Desktop,Slice2,17,149,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1316.57,Transfer,Failed,Desktop,Slice2,18,198,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+943.59,Withdrawal,Success,Desktop,Slice1,14,123,10,Friday,January,2025,Turkey,Şenocak,0
+592.7,Deposit,Failed,Mobile,Slice1,9,194,10,Friday,January,2025,Somalia,Cadale,1
+1279.75,Transfer,Failed,Desktop,Slice3,19,59,10,Friday,January,2025,Kenya,Lokichar,1
+1445.66,Withdrawal,Success,Mobile,Slice1,12,116,10,Friday,January,2025,Kenya,El Wak,1
+723.43,Transfer,Failed,Desktop,Slice2,10,56,10,Friday,January,2025,Turkey,Ereğli,1
+86.27,Deposit,Failed,Desktop,Slice2,18,113,10,Friday,January,2025,Somalia,Ceeldheer,0
+366.82,Withdrawal,Success,Desktop,Slice1,4,52,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1166.16,Deposit,Success,Mobile,Slice3,13,171,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+1488.93,Deposit,Failed,Mobile,Slice2,15,228,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+420.72,Transfer,Success,Desktop,Slice2,7,220,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1123.86,Deposit,Success,Desktop,Slice3,9,132,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+976.48,Deposit,Failed,Mobile,Slice1,7,130,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+546.59,Transfer,Failed,Desktop,Slice3,18,172,10,Friday,January,2025,Kenya,Dadaab,1
+984.69,Withdrawal,Success,Desktop,Slice1,10,212,10,Friday,January,2025,Somalia,Cadale,1
+124.97,Transfer,Success,Desktop,Slice1,4,83,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+376.24,Deposit,Failed,Mobile,Slice1,15,80,10,Friday,January,2025,Somalia,Cadale,1
+1113.62,Transfer,Success,Desktop,Slice3,19,105,10,Friday,January,2025,South Africa,Port Elizabeth,0
+1399.98,Transfer,Failed,Mobile,Slice2,19,136,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+99.92,Deposit,Success,Mobile,Slice2,13,88,10,Friday,January,2025,Uganda,Napak,1
+497.89,Transfer,Failed,Mobile,Slice2,16,65,10,Friday,January,2025,Turkey,Ereğli,0
+902.0,Transfer,Failed,Desktop,Slice3,11,59,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+908.73,Transfer,Success,Mobile,Slice2,13,75,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+368.3,Withdrawal,Success,Desktop,Slice2,16,200,10,Friday,January,2025,South Africa,Port Elizabeth,1
+166.5,Withdrawal,Failed,Desktop,Slice1,16,119,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+954.31,Transfer,Failed,Desktop,Slice3,9,96,10,Friday,January,2025,Seychelles,La Passe,1
+622.19,Transfer,Failed,Mobile,Slice3,9,230,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1411.27,Withdrawal,Failed,Desktop,Slice2,19,113,10,Friday,January,2025,Seychelles,La Passe,1
+1033.4,Withdrawal,Success,Desktop,Slice3,3,167,11,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1155.76,Deposit,Failed,Desktop,Slice1,15,93,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1286.89,Deposit,Success,Mobile,Slice1,14,103,10,Friday,January,2025,Somalia,Ceeldheer,0
+1117.55,Deposit,Failed,Desktop,Slice3,14,247,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1012.68,Deposit,Success,Desktop,Slice3,15,189,10,Friday,January,2025,Seychelles,La Passe,0
+1093.97,Deposit,Failed,Mobile,Slice1,4,221,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+782.21,Deposit,Failed,Desktop,Slice1,10,181,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+738.34,Deposit,Success,Mobile,Slice3,13,194,10,Friday,January,2025,Kenya,Dadaab,1
+79.96,Withdrawal,Success,Mobile,Slice2,9,88,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+138.44,Transfer,Success,Mobile,Slice2,14,199,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+781.77,Withdrawal,Success,Desktop,Slice3,11,220,10,Friday,January,2025,Seychelles,La Passe,0
+420.19,Deposit,Failed,Mobile,Slice2,5,200,10,Friday,January,2025,Uganda,Napak,1
+1452.12,Deposit,Failed,Desktop,Slice2,13,168,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+191.15,Transfer,Failed,Mobile,Slice3,7,178,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1132.23,Transfer,Success,Mobile,Slice3,12,186,10,Friday,January,2025,Kenya,Port Victoria,0
+668.82,Transfer,Success,Mobile,Slice2,11,92,10,Friday,January,2025,Turkey,Şenocak,0
+685.34,Withdrawal,Success,Mobile,Slice3,9,128,10,Friday,January,2025,Turkey,Ereğli,1
+1391.28,Withdrawal,Success,Mobile,Slice2,9,125,10,Friday,January,2025,Kenya,Port Victoria,1
+958.98,Withdrawal,Success,Desktop,Slice2,17,212,10,Friday,January,2025,Seychelles,La Passe,0
+621.44,Transfer,Success,Desktop,Slice3,10,74,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1035.25,Deposit,Success,Mobile,Slice3,10,175,10,Friday,January,2025,Kenya,Dadaab,1
+769.38,Transfer,Success,Mobile,Slice2,5,109,10,Friday,January,2025,Somalia,Ceeldheer,0
+235.97,Withdrawal,Success,Desktop,Slice3,7,193,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+350.45,Transfer,Failed,Desktop,Slice1,6,213,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+802.61,Withdrawal,Failed,Desktop,Slice3,13,110,10,Friday,January,2025,South Africa,St Francis Bay,1
+1475.38,Transfer,Success,Mobile,Slice2,13,148,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+401.53,Withdrawal,Success,Mobile,Slice3,11,103,10,Friday,January,2025,Turkey,Kozan,0
+1176.88,Transfer,Success,Mobile,Slice2,8,240,10,Friday,January,2025,Kenya,El Wak,0
+1494.03,Transfer,Success,Desktop,Slice1,12,214,10,Friday,January,2025,Kenya,El Wak,1
+1090.87,Transfer,Failed,Desktop,Slice1,20,198,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+427.54,Withdrawal,Failed,Desktop,Slice2,16,93,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1411.39,Withdrawal,Failed,Desktop,Slice2,6,54,10,Friday,January,2025,South Africa,St Francis Bay,1
+1026.0,Deposit,Success,Desktop,Slice2,10,216,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+217.64,Withdrawal,Failed,Desktop,Slice1,9,77,10,Friday,January,2025,South Africa,St Francis Bay,1
+1449.78,Withdrawal,Success,Desktop,Slice2,16,99,10,Friday,January,2025,Somalia,Ceeldheer,1
+1003.45,Deposit,Success,Desktop,Slice2,5,191,11,Friday,January,2025,Somalia,Ceeldheer,0
+1229.3,Transfer,Success,Desktop,Slice2,14,246,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+251.82,Transfer,Success,Mobile,Slice3,19,106,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+815.81,Transfer,Failed,Desktop,Slice2,10,105,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+931.5,Transfer,Failed,Mobile,Slice1,6,247,10,Friday,January,2025,Somalia,Hobyo,1
+503.36,Transfer,Failed,Mobile,Slice2,16,237,10,Friday,January,2025,South Africa,St Francis Bay,1
+609.1,Transfer,Failed,Desktop,Slice2,16,184,10,Friday,January,2025,Kenya,Lokichar,0
+479.45,Withdrawal,Failed,Mobile,Slice3,3,136,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+592.71,Withdrawal,Failed,Mobile,Slice2,18,212,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+344.15,Transfer,Success,Mobile,Slice3,6,150,10,Friday,January,2025,Kenya,Port Victoria,1
+726.81,Deposit,Failed,Mobile,Slice3,3,184,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+299.45,Deposit,Success,Mobile,Slice2,20,90,10,Friday,January,2025,Seychelles,La Passe,1
+747.08,Transfer,Success,Desktop,Slice1,3,155,10,Friday,January,2025,Kenya,Dadaab,1
+193.87,Deposit,Failed,Mobile,Slice1,3,135,10,Friday,January,2025,Kenya,Lokichar,0
+386.64,Deposit,Success,Desktop,Slice3,10,121,10,Friday,January,2025,Somalia,Ceeldheer,1
+105.99,Withdrawal,Failed,Desktop,Slice2,3,87,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+1211.94,Deposit,Success,Desktop,Slice1,11,75,10,Friday,January,2025,South Africa,Port Elizabeth,0
+451.03,Transfer,Success,Mobile,Slice3,15,210,10,Friday,January,2025,Somalia,Ceeldheer,1
+1229.83,Deposit,Failed,Desktop,Slice3,3,85,10,Friday,January,2025,Somalia,Hobyo,1
+150.68,Deposit,Success,Mobile,Slice3,11,94,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+760.84,Withdrawal,Failed,Mobile,Slice3,15,158,10,Friday,January,2025,Somalia,Ceeldheer,0
+849.81,Transfer,Failed,Mobile,Slice1,17,203,10,Friday,January,2025,South Africa,St Francis Bay,1
+926.66,Withdrawal,Success,Mobile,Slice3,10,83,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+1429.67,Transfer,Success,Desktop,Slice1,7,68,10,Friday,January,2025,Somalia,Hobyo,1
+327.76,Withdrawal,Success,Desktop,Slice3,10,135,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+845.26,Transfer,Failed,Desktop,Slice2,15,217,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+417.63,Transfer,Success,Desktop,Slice2,15,71,10,Friday,January,2025,Kenya,Port Victoria,1
+726.13,Withdrawal,Success,Mobile,Slice2,5,173,10,Friday,January,2025,Kenya,Dadaab,1
+1436.4,Withdrawal,Success,Desktop,Slice1,20,156,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+481.5,Withdrawal,Success,Desktop,Slice1,16,125,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1085.85,Deposit,Failed,Desktop,Slice2,7,60,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+847.66,Deposit,Failed,Mobile,Slice1,15,198,10,Friday,January,2025,Kenya,Lokichar,1
+1419.74,Withdrawal,Failed,Desktop,Slice3,18,75,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1144.79,Deposit,Success,Desktop,Slice3,5,209,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1193.2,Withdrawal,Failed,Mobile,Slice2,5,162,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+1134.0,Deposit,Success,Desktop,Slice2,9,101,10,Friday,January,2025,Uganda,Napak,1
+1437.81,Transfer,Failed,Mobile,Slice1,11,153,10,Friday,January,2025,Uganda,Napak,0
+1485.22,Transfer,Failed,Mobile,Slice2,18,159,10,Friday,January,2025,Somalia,Ceeldheer,0
+1254.83,Deposit,Success,Desktop,Slice3,20,92,10,Friday,January,2025,Kenya,Eldama Ravine,0
+135.33,Withdrawal,Failed,Mobile,Slice1,9,78,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+725.84,Deposit,Success,Desktop,Slice2,15,160,10,Friday,January,2025,Kenya,Port Victoria,0
+374.88,Deposit,Failed,Mobile,Slice1,20,81,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+226.12,Deposit,Failed,Mobile,Slice3,12,200,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+827.52,Withdrawal,Failed,Desktop,Slice1,12,73,10,Friday,January,2025,South Africa,St Francis Bay,1
+468.29,Deposit,Failed,Desktop,Slice2,6,144,10,Friday,January,2025,Seychelles,La Passe,1
+534.53,Deposit,Failed,Mobile,Slice1,16,153,10,Friday,January,2025,Kenya,Port Victoria,1
+921.16,Withdrawal,Success,Desktop,Slice1,19,202,10,Friday,January,2025,Kenya,Lokichar,0
+1174.09,Withdrawal,Failed,Desktop,Slice1,13,94,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1409.54,Transfer,Success,Mobile,Slice3,6,148,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+493.04,Deposit,Success,Mobile,Slice3,3,61,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+875.82,Transfer,Failed,Desktop,Slice2,10,77,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1395.74,Transfer,Success,Mobile,Slice3,7,69,10,Friday,January,2025,Uganda,Napak,1
+1090.7,Transfer,Success,Desktop,Slice3,12,229,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+152.45,Deposit,Failed,Desktop,Slice1,12,214,10,Friday,January,2025,Kenya,El Wak,0
+939.81,Transfer,Success,Mobile,Slice3,19,250,10,Friday,January,2025,Somalia,Ceeldheer,0
+530.44,Transfer,Failed,Mobile,Slice2,13,64,10,Friday,January,2025,Uganda,Napak,0
+1119.13,Deposit,Failed,Mobile,Slice3,6,63,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+145.6,Withdrawal,Failed,Mobile,Slice3,7,132,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+265.48,Withdrawal,Failed,Desktop,Slice1,19,152,10,Friday,January,2025,Turkey,Ereğli,0
+512.81,Deposit,Failed,Desktop,Slice1,8,232,10,Friday,January,2025,Kenya,Lokichar,1
+894.19,Transfer,Success,Mobile,Slice3,12,231,10,Friday,January,2025,Somalia,Ceeldheer,1
+1093.08,Deposit,Success,Mobile,Slice3,15,190,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+717.43,Deposit,Success,Desktop,Slice1,15,129,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+912.78,Deposit,Success,Desktop,Slice2,16,228,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1441.89,Deposit,Failed,Desktop,Slice1,18,67,11,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1081.52,Transfer,Failed,Mobile,Slice1,5,70,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1159.52,Transfer,Failed,Mobile,Slice2,11,83,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+646.48,Deposit,Failed,Desktop,Slice2,13,139,10,Friday,January,2025,Somalia,Cadale,0
+1108.3,Transfer,Failed,Desktop,Slice2,19,181,10,Friday,January,2025,Turkey,Kozan,1
+904.54,Transfer,Success,Mobile,Slice3,13,243,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1493.86,Withdrawal,Failed,Mobile,Slice1,17,69,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+662.74,Transfer,Failed,Mobile,Slice3,16,188,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1119.63,Transfer,Failed,Desktop,Slice2,15,113,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1245.19,Transfer,Success,Mobile,Slice1,20,216,10,Friday,January,2025,Somalia,Ceeldheer,0
+1275.28,Deposit,Success,Desktop,Slice1,16,68,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+946.2,Deposit,Failed,Mobile,Slice3,16,200,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+228.45,Transfer,Success,Desktop,Slice1,17,74,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+734.99,Deposit,Failed,Desktop,Slice3,15,100,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+220.56,Withdrawal,Failed,Mobile,Slice1,17,176,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+87.4,Deposit,Success,Desktop,Slice1,3,236,10,Friday,January,2025,Turkey,Şenocak,1
+245.59,Transfer,Failed,Desktop,Slice2,3,56,10,Friday,January,2025,South Africa,St Francis Bay,1
+115.33,Transfer,Success,Mobile,Slice2,8,82,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+424.14,Transfer,Failed,Desktop,Slice2,4,99,10,Friday,January,2025,Kenya,Dadaab,0
+118.47,Withdrawal,Failed,Mobile,Slice3,9,102,10,Friday,January,2025,Somalia,Hobyo,1
+733.38,Withdrawal,Success,Mobile,Slice3,3,150,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+927.51,Transfer,Success,Mobile,Slice3,18,182,10,Friday,January,2025,Kenya,Dadaab,1
+507.14,Deposit,Success,Desktop,Slice2,17,193,10,Friday,January,2025,Kenya,El Wak,1
+147.52,Deposit,Success,Desktop,Slice2,20,92,10,Friday,January,2025,Somalia,Ceeldheer,1
+909.99,Deposit,Success,Mobile,Slice1,15,103,10,Friday,January,2025,Kenya,Dadaab,0
+725.22,Deposit,Failed,Desktop,Slice2,18,140,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1370.46,Transfer,Success,Mobile,Slice3,3,73,10,Friday,January,2025,Somalia,Ceeldheer,1
+827.33,Deposit,Failed,Desktop,Slice1,5,108,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1133.84,Transfer,Success,Mobile,Slice3,13,126,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+59.49,Transfer,Failed,Desktop,Slice1,15,196,10,Friday,January,2025,Somalia,Ceeldheer,1
+602.34,Transfer,Success,Desktop,Slice3,17,170,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+897.01,Deposit,Success,Desktop,Slice3,7,60,10,Friday,January,2025,Somalia,Cadale,0
+692.63,Withdrawal,Success,Mobile,Slice1,17,151,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+968.11,Deposit,Success,Mobile,Slice3,6,200,10,Friday,January,2025,Seychelles,La Passe,0
+676.86,Deposit,Failed,Desktop,Slice3,11,96,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+163.42,Withdrawal,Failed,Mobile,Slice2,15,169,10,Friday,January,2025,Turkey,Şenocak,1
+676.31,Withdrawal,Failed,Mobile,Slice1,5,230,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1090.51,Transfer,Success,Mobile,Slice2,18,145,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+954.23,Withdrawal,Success,Mobile,Slice2,15,79,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+800.64,Withdrawal,Success,Desktop,Slice2,4,142,10,Friday,January,2025,Seychelles,La Passe,0
+727.62,Transfer,Success,Desktop,Slice1,6,57,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1257.79,Transfer,Success,Desktop,Slice2,20,168,10,Friday,January,2025,Kenya,Eldama Ravine,0
+1364.73,Deposit,Failed,Desktop,Slice2,6,141,10,Friday,January,2025,Somalia,Ceeldheer,0
+1070.75,Transfer,Success,Desktop,Slice2,9,214,10,Friday,January,2025,South Africa,St Francis Bay,0
+348.58,Withdrawal,Success,Desktop,Slice1,10,77,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+721.39,Deposit,Failed,Desktop,Slice2,3,82,10,Friday,January,2025,Kenya,El Wak,0
+688.03,Withdrawal,Success,Desktop,Slice2,14,166,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1002.18,Deposit,Failed,Desktop,Slice3,16,163,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+78.53,Transfer,Failed,Mobile,Slice1,9,114,10,Friday,January,2025,Somalia,Cadale,0
+86.89,Withdrawal,Failed,Mobile,Slice3,4,109,10,Friday,January,2025,South Africa,St Francis Bay,0
+1283.15,Withdrawal,Failed,Mobile,Slice1,6,163,10,Friday,January,2025,Somalia,Ceeldheer,1
+275.82,Deposit,Success,Mobile,Slice2,20,112,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+231.96,Transfer,Failed,Mobile,Slice2,8,193,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1413.64,Transfer,Success,Mobile,Slice2,6,113,10,Friday,January,2025,Turkey,Kozan,0
+558.08,Deposit,Success,Desktop,Slice1,19,122,11,Friday,January,2025,Seychelles,La Passe,1
+1420.72,Transfer,Failed,Desktop,Slice3,4,140,10,Friday,January,2025,Kenya,Dadaab,0
+855.53,Deposit,Success,Mobile,Slice1,15,142,10,Friday,January,2025,Seychelles,La Passe,1
+1221.82,Withdrawal,Failed,Desktop,Slice2,9,98,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+109.93,Deposit,Failed,Mobile,Slice3,16,107,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+329.15,Transfer,Success,Desktop,Slice2,15,192,11,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1372.23,Withdrawal,Failed,Desktop,Slice1,16,149,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1190.88,Deposit,Failed,Mobile,Slice1,6,189,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+58.69,Transfer,Failed,Mobile,Slice1,9,136,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+345.62,Withdrawal,Failed,Desktop,Slice1,11,249,10,Friday,January,2025,South Africa,Port Elizabeth,0
+438.45,Deposit,Failed,Mobile,Slice2,15,84,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+54.96,Transfer,Success,Mobile,Slice1,13,80,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1191.92,Deposit,Failed,Mobile,Slice1,4,88,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+881.39,Transfer,Success,Desktop,Slice1,18,65,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+890.41,Withdrawal,Success,Desktop,Slice3,20,209,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1031.4,Transfer,Success,Desktop,Slice1,16,235,10,Friday,January,2025,Turkey,Ereğli,0
+1494.2,Deposit,Failed,Mobile,Slice1,6,64,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+224.29,Withdrawal,Failed,Desktop,Slice2,7,59,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1272.93,Transfer,Failed,Desktop,Slice2,5,114,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1427.83,Deposit,Failed,Mobile,Slice1,4,145,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+671.09,Transfer,Success,Mobile,Slice2,11,226,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+149.22,Deposit,Success,Mobile,Slice3,11,181,11,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+918.7,Deposit,Success,Mobile,Slice2,14,156,10,Friday,January,2025,Turkey,Şenocak,1
+1479.46,Deposit,Failed,Desktop,Slice3,17,69,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+427.26,Deposit,Success,Desktop,Slice2,15,156,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1037.73,Withdrawal,Failed,Desktop,Slice2,7,190,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+630.84,Withdrawal,Failed,Desktop,Slice1,20,207,10,Friday,January,2025,Kenya,Eldama Ravine,0
+1133.66,Transfer,Success,Desktop,Slice2,11,152,10,Friday,January,2025,Somalia,Hobyo,0
+55.17,Transfer,Failed,Mobile,Slice3,17,209,10,Friday,January,2025,South Africa,Port Elizabeth,0
+293.9,Deposit,Success,Mobile,Slice3,5,123,10,Friday,January,2025,Turkey,Ereğli,0
+440.3,Transfer,Failed,Desktop,Slice2,16,229,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1022.55,Transfer,Failed,Desktop,Slice1,20,244,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+739.69,Transfer,Failed,Desktop,Slice2,8,59,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1184.41,Transfer,Failed,Mobile,Slice3,4,238,10,Friday,January,2025,Somalia,Cadale,0
+806.15,Withdrawal,Failed,Desktop,Slice3,8,114,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1346.22,Transfer,Failed,Desktop,Slice2,12,229,10,Friday,January,2025,Somalia,Hobyo,1
+1351.47,Withdrawal,Failed,Mobile,Slice1,10,95,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+741.96,Transfer,Success,Mobile,Slice2,10,205,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1435.51,Deposit,Success,Mobile,Slice2,3,167,10,Friday,January,2025,Turkey,Ereğli,0
+304.9,Deposit,Failed,Mobile,Slice1,20,154,10,Friday,January,2025,Seychelles,La Passe,1
+741.72,Transfer,Success,Mobile,Slice1,3,78,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+487.33,Deposit,Success,Mobile,Slice1,15,132,10,Friday,January,2025,Turkey,Şenocak,1
+501.06,Transfer,Success,Desktop,Slice2,10,168,10,Friday,January,2025,Seychelles,La Passe,1
+1398.62,Transfer,Success,Mobile,Slice3,10,183,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+295.86,Withdrawal,Failed,Desktop,Slice1,6,180,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+369.79,Withdrawal,Success,Mobile,Slice3,4,87,10,Friday,January,2025,Kenya,Port Victoria,0
+1062.28,Withdrawal,Failed,Desktop,Slice1,19,88,10,Friday,January,2025,Turkey,Şenocak,0
+306.68,Withdrawal,Success,Desktop,Slice1,11,61,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+546.48,Transfer,Failed,Desktop,Slice3,11,56,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+662.62,Transfer,Success,Desktop,Slice3,6,81,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+827.95,Transfer,Failed,Desktop,Slice3,11,89,10,Friday,January,2025,Kenya,Eldama Ravine,0
+935.02,Deposit,Failed,Desktop,Slice3,9,217,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1087.67,Withdrawal,Failed,Desktop,Slice3,11,111,10,Friday,January,2025,Kenya,Port Victoria,0
+519.04,Deposit,Success,Mobile,Slice2,3,132,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+171.92,Deposit,Failed,Mobile,Slice3,17,184,10,Friday,January,2025,Somalia,Cadale,0
+827.11,Transfer,Success,Mobile,Slice1,7,80,10,Friday,January,2025,South Africa,St Francis Bay,0
+108.56,Deposit,Failed,Mobile,Slice3,5,110,10,Friday,January,2025,Turkey,Şenocak,1
+1234.66,Deposit,Failed,Mobile,Slice1,19,54,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+485.89,Transfer,Failed,Desktop,Slice3,16,175,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+106.01,Withdrawal,Failed,Mobile,Slice3,12,180,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+378.83,Transfer,Success,Desktop,Slice2,17,64,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+654.1,Transfer,Failed,Desktop,Slice2,9,244,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+1318.57,Deposit,Failed,Mobile,Slice1,19,247,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+394.98,Transfer,Success,Desktop,Slice1,15,227,10,Friday,January,2025,Somalia,Cadale,0
+448.07,Transfer,Failed,Desktop,Slice1,7,234,10,Friday,January,2025,Kenya,Dadaab,1
+799.39,Transfer,Success,Mobile,Slice3,19,83,10,Friday,January,2025,Kenya,El Wak,1
+1277.1,Withdrawal,Failed,Mobile,Slice2,4,208,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+723.45,Transfer,Success,Desktop,Slice3,17,207,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+602.08,Transfer,Failed,Mobile,Slice3,12,176,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1251.19,Deposit,Failed,Desktop,Slice2,14,207,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+660.16,Deposit,Failed,Mobile,Slice1,17,215,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1172.55,Deposit,Success,Mobile,Slice3,10,185,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+404.35,Transfer,Success,Desktop,Slice3,14,232,10,Friday,January,2025,Kenya,El Wak,0
+1467.44,Withdrawal,Success,Desktop,Slice3,6,83,10,Friday,January,2025,South Africa,Port Elizabeth,1
+384.21,Transfer,Failed,Mobile,Slice3,12,248,10,Friday,January,2025,Kenya,Lokichar,0
+198.65,Transfer,Failed,Desktop,Slice2,17,56,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1041.32,Withdrawal,Failed,Mobile,Slice1,13,97,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+864.58,Deposit,Success,Desktop,Slice3,19,235,10,Friday,January,2025,Turkey,Şenocak,1
+1241.46,Withdrawal,Failed,Desktop,Slice1,8,78,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1398.95,Deposit,Success,Mobile,Slice1,9,117,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1431.06,Transfer,Success,Mobile,Slice2,6,64,10,Friday,January,2025,Seychelles,La Passe,1
+698.69,Transfer,Success,Mobile,Slice2,10,82,10,Friday,January,2025,South Africa,St Francis Bay,1
+582.69,Transfer,Failed,Desktop,Slice2,6,226,10,Friday,January,2025,Turkey,Şenocak,1
+915.57,Transfer,Failed,Mobile,Slice1,11,168,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+766.64,Deposit,Success,Mobile,Slice1,19,131,10,Friday,January,2025,Turkey,Ereğli,0
+559.49,Withdrawal,Failed,Desktop,Slice2,6,173,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1017.57,Withdrawal,Success,Mobile,Slice3,7,150,10,Friday,January,2025,Kenya,Lokichar,1
+1326.71,Withdrawal,Success,Mobile,Slice1,7,241,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1327.89,Deposit,Success,Mobile,Slice1,11,247,10,Friday,January,2025,Somalia,Hobyo,1
+601.16,Deposit,Failed,Mobile,Slice1,19,125,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1053.94,Transfer,Success,Desktop,Slice1,8,94,10,Friday,January,2025,Kenya,Lokichar,0
+250.92,Deposit,Failed,Desktop,Slice2,15,248,10,Friday,January,2025,Somalia,Ceeldheer,0
+1233.39,Withdrawal,Success,Mobile,Slice2,4,159,10,Friday,January,2025,Kenya,Eldama Ravine,0
+495.85,Transfer,Success,Desktop,Slice2,14,184,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+641.56,Transfer,Success,Mobile,Slice2,15,243,10,Friday,January,2025,Somalia,Ceeldheer,1
+978.9,Withdrawal,Success,Desktop,Slice3,9,244,10,Friday,January,2025,Turkey,Şenocak,0
+376.95,Transfer,Failed,Mobile,Slice3,17,194,10,Friday,January,2025,Kenya,Lokichar,0
+920.92,Deposit,Success,Desktop,Slice1,17,149,10,Friday,January,2025,South Africa,Port Elizabeth,1
+891.01,Transfer,Failed,Desktop,Slice2,13,176,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1117.59,Deposit,Failed,Desktop,Slice2,13,243,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+165.65,Withdrawal,Success,Desktop,Slice2,4,208,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1211.91,Deposit,Success,Mobile,Slice1,14,57,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1331.16,Deposit,Success,Mobile,Slice3,5,232,10,Friday,January,2025,Kenya,Port Victoria,0
+641.13,Transfer,Success,Mobile,Slice1,14,183,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+653.41,Deposit,Success,Mobile,Slice3,12,244,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1307.54,Transfer,Failed,Mobile,Slice3,17,180,10,Friday,January,2025,Kenya,Dadaab,1
+396.91,Transfer,Failed,Mobile,Slice1,10,211,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1458.87,Deposit,Failed,Mobile,Slice2,4,136,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1073.28,Transfer,Success,Mobile,Slice2,10,147,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1362.38,Withdrawal,Failed,Desktop,Slice3,7,220,10,Friday,January,2025,Somalia,Hobyo,1
+659.9,Transfer,Success,Mobile,Slice1,17,84,10,Friday,January,2025,Kenya,El Wak,0
+56.93,Transfer,Failed,Desktop,Slice1,17,101,10,Friday,January,2025,South Africa,Port Elizabeth,0
+219.4,Withdrawal,Success,Desktop,Slice1,18,163,10,Friday,January,2025,Kenya,Port Victoria,1
+1114.74,Withdrawal,Success,Desktop,Slice2,11,230,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+252.71,Transfer,Failed,Desktop,Slice1,15,121,10,Friday,January,2025,Turkey,Ereğli,0
+358.53,Withdrawal,Failed,Mobile,Slice1,13,126,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+207.64,Deposit,Failed,Mobile,Slice2,19,154,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+92.76,Transfer,Failed,Mobile,Slice2,9,103,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+1271.43,Deposit,Failed,Desktop,Slice1,6,153,10,Friday,January,2025,South Africa,Port Elizabeth,0
+1149.69,Deposit,Success,Mobile,Slice2,3,224,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+91.93,Transfer,Success,Mobile,Slice1,3,168,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1386.49,Deposit,Success,Mobile,Slice1,4,64,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1120.65,Deposit,Success,Mobile,Slice1,13,83,10,Friday,January,2025,Seychelles,La Passe,1
+596.1,Transfer,Success,Mobile,Slice3,13,92,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+129.93,Transfer,Success,Desktop,Slice1,4,157,11,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+1201.84,Transfer,Success,Mobile,Slice3,10,68,10,Friday,January,2025,Kenya,Dadaab,0
+1257.78,Deposit,Failed,Desktop,Slice3,13,176,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1148.58,Transfer,Success,Desktop,Slice1,12,246,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+570.72,Transfer,Failed,Desktop,Slice1,4,62,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+655.7,Withdrawal,Success,Desktop,Slice1,3,164,10,Friday,January,2025,Somalia,Ceeldheer,0
+555.28,Withdrawal,Success,Mobile,Slice2,19,147,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+333.77,Transfer,Success,Mobile,Slice3,5,55,10,Friday,January,2025,Kenya,Lokichar,0
+731.29,Withdrawal,Success,Desktop,Slice3,7,54,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+192.43,Deposit,Success,Mobile,Slice3,9,166,10,Friday,January,2025,Turkey,Kozan,1
+810.23,Transfer,Failed,Mobile,Slice2,10,124,10,Friday,January,2025,Kenya,Port Victoria,0
+341.45,Transfer,Failed,Mobile,Slice3,17,140,10,Friday,January,2025,South Africa,St Francis Bay,1
+1003.51,Deposit,Failed,Mobile,Slice3,15,99,10,Friday,January,2025,Seychelles,La Passe,0
+938.65,Deposit,Success,Desktop,Slice2,18,136,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1398.09,Withdrawal,Failed,Mobile,Slice2,17,214,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+958.18,Transfer,Success,Desktop,Slice3,16,217,10,Friday,January,2025,Kenya,Eldama Ravine,0
+938.68,Transfer,Failed,Mobile,Slice3,17,139,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+800.31,Deposit,Failed,Mobile,Slice2,11,154,10,Friday,January,2025,Somalia,Ceeldheer,1
+1307.8,Transfer,Success,Mobile,Slice1,13,149,10,Friday,January,2025,Turkey,Kozan,0
+1184.61,Deposit,Success,Desktop,Slice2,20,157,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+89.69,Transfer,Failed,Desktop,Slice3,15,172,10,Friday,January,2025,Somalia,Hobyo,1
+990.36,Deposit,Failed,Mobile,Slice1,16,223,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1355.61,Deposit,Failed,Mobile,Slice1,17,244,10,Friday,January,2025,South Africa,St Francis Bay,0
+1457.81,Withdrawal,Success,Desktop,Slice3,18,57,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+193.35,Deposit,Failed,Desktop,Slice3,14,159,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+1250.73,Transfer,Success,Desktop,Slice3,3,213,10,Friday,January,2025,Somalia,Cadale,1
+641.89,Transfer,Success,Mobile,Slice2,20,193,10,Friday,January,2025,South Africa,St Francis Bay,1
+548.18,Deposit,Failed,Mobile,Slice2,18,230,10,Friday,January,2025,Kenya,El Wak,1
+93.19,Transfer,Failed,Desktop,Slice2,19,133,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+974.06,Withdrawal,Failed,Desktop,Slice3,10,185,10,Friday,January,2025,Kenya,Eldama Ravine,1
+1325.97,Deposit,Failed,Desktop,Slice1,15,178,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+71.67,Transfer,Failed,Desktop,Slice1,19,250,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1279.03,Deposit,Success,Desktop,Slice2,3,129,10,Friday,January,2025,Turkey,Ereğli,0
+788.22,Deposit,Failed,Desktop,Slice2,3,187,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+274.99,Deposit,Success,Mobile,Slice2,10,75,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+385.75,Deposit,Failed,Mobile,Slice1,9,235,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+819.88,Deposit,Failed,Mobile,Slice2,16,90,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+500.19,Transfer,Success,Mobile,Slice1,3,167,10,Friday,January,2025,Kenya,Eldama Ravine,0
+703.97,Deposit,Success,Desktop,Slice2,13,204,10,Friday,January,2025,Turkey,Şenocak,0
+773.32,Deposit,Failed,Mobile,Slice3,19,163,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1127.88,Deposit,Failed,Mobile,Slice2,8,120,10,Friday,January,2025,Kenya,Lokichar,1
+1032.59,Deposit,Success,Desktop,Slice1,10,186,10,Friday,January,2025,Kenya,Port Victoria,1
+1150.77,Deposit,Success,Desktop,Slice3,8,105,10,Friday,January,2025,Kenya,Port Victoria,1
+480.09,Withdrawal,Success,Mobile,Slice3,6,215,10,Friday,January,2025,Somalia,Hobyo,1
+820.56,Transfer,Failed,Mobile,Slice3,17,69,10,Friday,January,2025,Kenya,Lokichar,1
+1436.82,Withdrawal,Success,Desktop,Slice2,19,104,10,Friday,January,2025,Seychelles,La Passe,1
+446.48,Deposit,Failed,Desktop,Slice1,11,71,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+823.27,Withdrawal,Success,Mobile,Slice1,13,121,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+130.81,Transfer,Success,Desktop,Slice1,6,205,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1476.97,Transfer,Success,Mobile,Slice1,3,79,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1006.25,Deposit,Failed,Mobile,Slice3,16,137,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1054.81,Withdrawal,Failed,Desktop,Slice3,14,80,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+968.25,Withdrawal,Failed,Mobile,Slice1,9,172,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+986.71,Withdrawal,Failed,Mobile,Slice1,7,211,10,Friday,January,2025,Somalia,Ceeldheer,0
+958.06,Withdrawal,Failed,Desktop,Slice3,17,171,10,Friday,January,2025,South Africa,Port Elizabeth,1
+1449.24,Transfer,Failed,Mobile,Slice2,13,119,10,Friday,January,2025,Seychelles,La Passe,1
+1075.67,Withdrawal,Success,Desktop,Slice1,5,218,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+1254.42,Transfer,Failed,Mobile,Slice1,8,106,10,Friday,January,2025,Somalia,Cadale,0
+464.88,Transfer,Failed,Mobile,Slice1,13,169,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+60.88,Withdrawal,Failed,Desktop,Slice3,11,103,10,Friday,January,2025,Kenya,Lokichar,0
+1212.85,Deposit,Failed,Desktop,Slice3,9,70,10,Friday,January,2025,Kenya,Eldama Ravine,1
+859.59,Withdrawal,Success,Mobile,Slice1,18,92,10,Friday,January,2025,Turkey,Ereğli,0
+947.46,Deposit,Failed,Desktop,Slice2,10,54,10,Friday,January,2025,Kenya,Port Victoria,1
+945.11,Transfer,Failed,Mobile,Slice1,8,210,10,Friday,January,2025,Kenya,El Wak,0
+177.33,Withdrawal,Failed,Mobile,Slice3,17,128,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1479.61,Deposit,Success,Desktop,Slice3,18,157,10,Friday,January,2025,Somalia,Ceeldheer,0
+620.69,Transfer,Success,Mobile,Slice1,18,196,10,Friday,January,2025,Kenya,Lokichar,1
+1165.93,Withdrawal,Failed,Mobile,Slice3,17,183,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+92.47,Withdrawal,Failed,Mobile,Slice1,5,51,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+321.27,Transfer,Failed,Mobile,Slice2,3,77,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+797.15,Withdrawal,Success,Mobile,Slice1,6,108,10,Friday,January,2025,Somalia,Cadale,1
+821.91,Deposit,Failed,Mobile,Slice1,12,173,10,Friday,January,2025,Seychelles,La Passe,1
+504.87,Deposit,Failed,Mobile,Slice3,6,148,10,Friday,January,2025,Somalia,Ceeldheer,1
+501.32,Transfer,Failed,Desktop,Slice2,16,98,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+290.98,Withdrawal,Success,Mobile,Slice1,14,162,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+1287.51,Transfer,Success,Desktop,Slice1,19,238,10,Friday,January,2025,Kenya,El Wak,1
+995.32,Transfer,Success,Mobile,Slice3,5,196,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1249.96,Deposit,Failed,Mobile,Slice1,16,178,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+599.34,Deposit,Success,Mobile,Slice2,14,98,10,Friday,January,2025,Seychelles,La Passe,0
+1271.78,Transfer,Success,Desktop,Slice3,20,93,10,Friday,January,2025,Kenya,Port Victoria,1
+399.64,Deposit,Failed,Desktop,Slice2,18,180,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1242.06,Transfer,Success,Mobile,Slice2,7,173,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1116.07,Withdrawal,Success,Mobile,Slice2,10,219,10,Friday,January,2025,Kenya,El Wak,0
+363.94,Deposit,Failed,Desktop,Slice3,15,240,10,Friday,January,2025,South Africa,Port Elizabeth,1
+216.24,Transfer,Failed,Mobile,Slice3,16,196,10,Friday,January,2025,Kenya,Dadaab,1
+779.86,Transfer,Success,Desktop,Slice3,13,111,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1307.83,Withdrawal,Success,Mobile,Slice3,15,115,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+706.74,Withdrawal,Success,Desktop,Slice3,19,148,10,Friday,January,2025,Somalia,Ceeldheer,0
+1253.28,Withdrawal,Failed,Desktop,Slice2,10,173,10,Friday,January,2025,Somalia,Ceeldheer,1
+298.62,Transfer,Success,Mobile,Slice2,15,194,10,Friday,January,2025,Somalia,Ceeldheer,1
+1428.9,Withdrawal,Success,Mobile,Slice3,9,164,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1184.1,Deposit,Failed,Mobile,Slice3,14,144,10,Friday,January,2025,South Africa,Port Elizabeth,0
+742.52,Deposit,Failed,Mobile,Slice1,11,66,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1208.12,Deposit,Failed,Desktop,Slice1,20,243,10,Friday,January,2025,Turkey,Şenocak,1
+1095.73,Transfer,Success,Mobile,Slice1,4,142,10,Friday,January,2025,Kenya,Port Victoria,1
+1004.97,Transfer,Failed,Mobile,Slice2,3,70,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1000.77,Transfer,Failed,Mobile,Slice1,5,171,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+416.36,Withdrawal,Failed,Desktop,Slice3,9,112,10,Friday,January,2025,Somalia,Hobyo,1
+712.32,Transfer,Success,Desktop,Slice1,3,183,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+752.37,Deposit,Failed,Desktop,Slice3,9,108,10,Friday,January,2025,Kenya,Dadaab,1
+1395.27,Deposit,Success,Mobile,Slice1,16,153,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1174.75,Transfer,Failed,Desktop,Slice1,3,235,10,Friday,January,2025,Somalia,Ceeldheer,0
+1242.46,Transfer,Failed,Desktop,Slice3,5,172,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+872.63,Withdrawal,Success,Mobile,Slice3,15,214,10,Friday,January,2025,Kenya,Port Victoria,0
+540.64,Transfer,Success,Mobile,Slice3,8,241,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1146.73,Deposit,Failed,Desktop,Slice3,11,63,10,Friday,January,2025,Somalia,Cadale,0
+1201.56,Deposit,Success,Mobile,Slice2,11,171,10,Friday,January,2025,Kenya,Port Victoria,1
+1065.72,Withdrawal,Success,Mobile,Slice2,12,231,10,Friday,January,2025,Turkey,Şenocak,0
+462.23,Transfer,Failed,Mobile,Slice2,10,58,10,Friday,January,2025,South Africa,Port Elizabeth,0
+765.79,Transfer,Success,Desktop,Slice2,20,180,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+462.35,Transfer,Failed,Mobile,Slice3,4,139,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1457.37,Transfer,Success,Mobile,Slice2,7,75,10,Friday,January,2025,Turkey,Kozan,1
+411.11,Withdrawal,Success,Mobile,Slice3,3,144,10,Friday,January,2025,Kenya,Eldama Ravine,1
+239.31,Deposit,Failed,Mobile,Slice2,10,128,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1326.86,Deposit,Success,Mobile,Slice1,8,121,10,Friday,January,2025,Seychelles,La Passe,0
+548.03,Transfer,Success,Mobile,Slice3,13,77,10,Friday,January,2025,Uganda,Napak,0
+1012.88,Transfer,Success,Mobile,Slice1,18,75,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+664.85,Withdrawal,Success,Desktop,Slice1,14,235,10,Friday,January,2025,Somalia,Cadale,1
+1331.75,Transfer,Success,Mobile,Slice2,14,88,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+297.46,Withdrawal,Success,Desktop,Slice3,20,107,10,Friday,January,2025,Kenya,Lokichar,0
+1005.65,Transfer,Success,Mobile,Slice2,7,228,10,Friday,January,2025,Turkey,Şenocak,0
+426.24,Transfer,Failed,Desktop,Slice3,9,151,10,Friday,January,2025,Turkey,Şenocak,0
+486.73,Transfer,Failed,Mobile,Slice1,16,54,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+995.33,Transfer,Failed,Mobile,Slice1,12,110,10,Friday,January,2025,Somalia,Ceeldheer,1
+940.8,Deposit,Success,Desktop,Slice2,6,192,10,Friday,January,2025,Somalia,Hobyo,1
+536.64,Deposit,Success,Desktop,Slice3,4,65,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1225.45,Deposit,Failed,Mobile,Slice1,18,116,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1075.79,Withdrawal,Success,Desktop,Slice1,14,195,10,Friday,January,2025,Uganda,Napak,0
+425.58,Transfer,Failed,Desktop,Slice3,17,187,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+301.68,Withdrawal,Failed,Desktop,Slice2,4,192,11,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+189.27,Deposit,Success,Desktop,Slice1,18,149,11,Friday,January,2025,Seychelles,La Passe,1
+199.09,Deposit,Failed,Mobile,Slice3,7,90,10,Friday,January,2025,Seychelles,La Passe,0
+1473.03,Withdrawal,Success,Mobile,Slice2,5,136,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1219.38,Transfer,Failed,Mobile,Slice1,13,157,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1151.27,Transfer,Failed,Desktop,Slice2,15,235,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+702.72,Deposit,Failed,Mobile,Slice3,10,137,10,Friday,January,2025,Kenya,Dadaab,1
+1425.1,Transfer,Failed,Mobile,Slice1,12,125,10,Friday,January,2025,Kenya,El Wak,0
+677.83,Withdrawal,Success,Desktop,Slice3,14,153,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1494.01,Transfer,Success,Mobile,Slice2,8,151,10,Friday,January,2025,Seychelles,La Passe,0
+734.06,Withdrawal,Success,Mobile,Slice2,15,169,10,Friday,January,2025,Turkey,Kozan,1
+638.32,Transfer,Failed,Mobile,Slice3,14,118,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+436.78,Transfer,Failed,Mobile,Slice3,19,138,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+728.37,Withdrawal,Failed,Mobile,Slice1,15,212,10,Friday,January,2025,Somalia,Ceeldheer,0
+521.21,Deposit,Failed,Mobile,Slice3,4,164,10,Friday,January,2025,Somalia,Cadale,0
+354.71,Deposit,Failed,Mobile,Slice2,14,96,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1354.86,Transfer,Success,Desktop,Slice2,11,96,10,Friday,January,2025,Seychelles,La Passe,1
+1152.37,Deposit,Success,Mobile,Slice2,10,239,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,0
+960.36,Transfer,Success,Desktop,Slice3,4,162,10,Friday,January,2025,Kenya,Eldama Ravine,1
+749.78,Transfer,Failed,Desktop,Slice2,19,180,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+860.27,Deposit,Success,Mobile,Slice2,8,61,10,Friday,January,2025,South Africa,Port Elizabeth,0
+678.84,Withdrawal,Success,Desktop,Slice3,16,135,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1158.51,Withdrawal,Success,Mobile,Slice1,4,67,10,Friday,January,2025,Uganda,Napak,0
+1081.36,Transfer,Success,Desktop,Slice1,18,58,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+188.7,Withdrawal,Success,Mobile,Slice3,13,236,10,Friday,January,2025,Turkey,Şenocak,0
+325.32,Withdrawal,Failed,Desktop,Slice3,9,244,10,Friday,January,2025,Kenya,Eldama Ravine,0
+778.32,Deposit,Success,Desktop,Slice3,6,67,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,0
+1334.29,Transfer,Failed,Mobile,Slice3,19,218,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1375.3,Withdrawal,Failed,Mobile,Slice3,7,157,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+187.41,Deposit,Success,Desktop,Slice1,19,216,10,Friday,January,2025,Kenya,Port Victoria,1
+770.19,Transfer,Failed,Desktop,Slice1,7,244,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1147.8,Withdrawal,Failed,Mobile,Slice3,6,126,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+689.86,Deposit,Failed,Mobile,Slice2,15,110,10,Friday,January,2025,Kenya,Lokichar,1
+539.4,Transfer,Success,Mobile,Slice1,15,208,10,Friday,January,2025,Somalia,Hobyo,1
+198.18,Deposit,Success,Desktop,Slice1,10,164,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+318.92,Withdrawal,Failed,Mobile,Slice2,15,226,10,Friday,January,2025,Somalia,Ceeldheer,0
+978.96,Transfer,Failed,Desktop,Slice2,10,85,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+655.98,Deposit,Success,Mobile,Slice1,7,239,10,Friday,January,2025,Kenya,El Wak,0
+744.4,Withdrawal,Failed,Mobile,Slice3,9,106,10,Friday,January,2025,Somalia,Cadale,1
+916.9,Deposit,Failed,Mobile,Slice1,20,52,10,Friday,January,2025,Seychelles,La Passe,1
+1209.34,Deposit,Success,Mobile,Slice3,6,180,10,Friday,January,2025,South Africa,St Francis Bay,1
+1084.97,Withdrawal,Failed,Desktop,Slice3,19,98,10,Friday,January,2025,Kenya,El Wak,1
+1083.95,Deposit,Success,Desktop,Slice2,9,132,10,Friday,January,2025,Turkey,Kozan,1
+272.9,Withdrawal,Success,Desktop,Slice3,3,157,10,Friday,January,2025,Turkey,Şenocak,0
+579.04,Deposit,Failed,Desktop,Slice1,19,126,10,Friday,January,2025,Kenya,Lokichar,0
+481.35,Transfer,Failed,Mobile,Slice3,20,68,10,Friday,January,2025,Kenya,Eldama Ravine,1
+601.6,Deposit,Failed,Desktop,Slice2,7,178,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+406.17,Withdrawal,Failed,Desktop,Slice3,16,114,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+992.79,Withdrawal,Failed,Desktop,Slice2,12,143,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1100.21,Transfer,Success,Desktop,Slice2,3,110,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1131.07,Deposit,Failed,Mobile,Slice2,17,127,10,Friday,January,2025,Turkey,Kozan,0
+1326.1,Deposit,Failed,Desktop,Slice3,9,95,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+675.48,Withdrawal,Success,Mobile,Slice3,17,120,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+178.14,Withdrawal,Success,Desktop,Slice2,3,132,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+822.69,Withdrawal,Success,Mobile,Slice3,5,207,10,Friday,January,2025,South Africa,St Francis Bay,1
+592.99,Transfer,Failed,Mobile,Slice2,16,148,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+190.95,Withdrawal,Failed,Mobile,Slice1,6,96,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1107.52,Withdrawal,Success,Mobile,Slice3,16,86,10,Friday,January,2025,Turkey,Kozan,1
+384.19,Transfer,Success,Mobile,Slice3,15,178,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+591.01,Transfer,Success,Desktop,Slice2,18,228,10,Friday,January,2025,Kenya,Eldama Ravine,1
+265.23,Withdrawal,Success,Desktop,Slice2,12,59,10,Friday,January,2025,Somalia,Ceeldheer,1
+256.9,Transfer,Failed,Mobile,Slice1,5,140,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1114.66,Withdrawal,Success,Mobile,Slice1,9,194,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+525.89,Withdrawal,Success,Mobile,Slice2,4,125,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+247.19,Withdrawal,Failed,Desktop,Slice2,8,51,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+307.44,Withdrawal,Success,Desktop,Slice3,8,233,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+917.5,Transfer,Failed,Desktop,Slice3,9,153,10,Friday,January,2025,Turkey,Ereğli,0
+149.97,Withdrawal,Failed,Desktop,Slice1,3,132,10,Friday,January,2025,Turkey,Şenocak,0
+772.24,Withdrawal,Failed,Desktop,Slice3,8,177,10,Friday,January,2025,Turkey,Kozan,0
+1191.12,Deposit,Success,Mobile,Slice3,17,81,10,Friday,January,2025,South Africa,Port Elizabeth,0
+399.24,Deposit,Success,Mobile,Slice1,8,82,10,Friday,January,2025,Kenya,Lokichar,0
+559.81,Withdrawal,Failed,Desktop,Slice3,4,100,10,Friday,January,2025,Kenya,Eldama Ravine,1
+402.64,Transfer,Failed,Mobile,Slice3,18,231,10,Friday,January,2025,Russian Federation,Belush’ya Guba,0
+1215.46,Transfer,Success,Mobile,Slice1,7,145,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,1
+164.94,Transfer,Success,Desktop,Slice3,5,178,10,Friday,January,2025,Seychelles,La Passe,1
+777.59,Transfer,Failed,Mobile,Slice2,10,211,10,Friday,January,2025,Somalia,Cadale,0
+802.61,Deposit,Failed,Desktop,Slice3,5,233,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+369.05,Transfer,Failed,Desktop,Slice1,14,113,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+635.34,Withdrawal,Success,Mobile,Slice3,15,221,10,Friday,January,2025,South Africa,Port Elizabeth,1
+646.29,Withdrawal,Success,Mobile,Slice2,18,157,10,Friday,January,2025,Kenya,Port Victoria,0
+181.28,Withdrawal,Success,Desktop,Slice3,10,173,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+381.94,Withdrawal,Failed,Desktop,Slice3,8,94,10,Friday,January,2025,Turkey,Ereğli,0
+656.49,Deposit,Failed,Desktop,Slice3,8,126,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+693.73,Withdrawal,Success,Desktop,Slice2,3,204,10,Friday,January,2025,Turkey,Şenocak,0
+872.85,Transfer,Failed,Desktop,Slice1,17,150,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+1480.5,Transfer,Success,Desktop,Slice3,17,117,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+1143.38,Transfer,Success,Desktop,Slice2,20,181,10,Friday,January,2025,Somalia,Hobyo,0
+507.32,Deposit,Failed,Mobile,Slice3,18,142,10,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+514.1,Deposit,Failed,Mobile,Slice3,14,120,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+333.81,Withdrawal,Failed,Mobile,Slice3,18,131,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+1123.09,Transfer,Success,Mobile,Slice2,13,234,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+274.03,Withdrawal,Success,Desktop,Slice3,7,70,10,Friday,January,2025,Kenya,Dadaab,1
+319.5,Withdrawal,Success,Mobile,Slice2,14,217,10,Friday,January,2025,"Iran, Islamic Republic of",Chālūs,1
+59.57,Withdrawal,Failed,Mobile,Slice3,11,78,10,Friday,January,2025,Turkey,Kozan,0
+1091.53,Deposit,Success,Mobile,Slice2,11,196,10,Friday,January,2025,French Southern Territories,Port-aux-Français,1
+1485.37,Withdrawal,Failed,Mobile,Slice2,13,149,10,Friday,January,2025,Seychelles,La Passe,0
+179.93,Deposit,Success,Mobile,Slice3,6,192,10,Friday,January,2025,Turkey,Şenocak,1
+558.64,Deposit,Failed,Desktop,Slice1,4,204,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+919.35,Deposit,Failed,Mobile,Slice1,17,210,10,Friday,January,2025,"Iran, Islamic Republic of",Hashtpar,0
+1285.8,Withdrawal,Failed,Desktop,Slice2,7,87,10,Friday,January,2025,Uganda,Napak,1
+1098.28,Deposit,Success,Desktop,Slice3,12,199,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,1
+236.29,Transfer,Success,Desktop,Slice2,20,169,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+378.9,Transfer,Success,Mobile,Slice2,10,104,10,Friday,January,2025,Somalia,Cadale,0
+1340.76,Transfer,Success,Mobile,Slice2,19,224,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
+483.36,Withdrawal,Failed,Mobile,Slice2,12,56,11,Friday,January,2025,"Iran, Islamic Republic of",Marāveh Tappeh,1
+199.81,Withdrawal,Success,Desktop,Slice1,14,151,10,Friday,January,2025,Svalbard and Jan Mayen,Longyearbyen,0
+1341.86,Transfer,Success,Mobile,Slice3,8,95,10,Friday,January,2025,Russian Federation,Belush’ya Guba,1
+495.36,Transfer,Failed,Mobile,Slice2,5,155,10,Friday,January,2025,French Southern Territories,Port-aux-Français,0
